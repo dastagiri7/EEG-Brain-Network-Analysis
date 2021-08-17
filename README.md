@@ -1,4 +1,5 @@
 # EEG-Brain-Network-Analysis
+This project focuses on understanding brain signals and connectivity patterns related to the eye states.
 
 # Abstract:
 
